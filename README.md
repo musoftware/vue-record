@@ -4,21 +4,21 @@
 
 [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![License][license-image]][license-url]
 
-Checkout the [demo](https://codekraft-studio.github.io/vue-record/) to see it in action.
+Checkout the [demo](https://musoftware.github.io/vue-record/) to see it in action.
 
 ## Installation
 
 Download the project using your favourite package manager:
 
 ```
-npm install @codekraft-studio/vue-record
+npm install @musoftware/vue-record
 ```
 
 Load it inside your project and use it:
 
 ```js
 import Vue from 'vue'
-import VueRecord from '@codekraft-studio/vue-record'
+import VueRecord from '@musoftware/vue-record'
 
 Vue.use(VueRecord)
 ```
@@ -105,14 +105,14 @@ export default {
 
 ## License
 
-Released with [MIT License](./LICENSE) © [codekraft-studio](https://github.com/codekraft-studio)
+Released with [MIT License](./LICENSE) © [musoftware](https://github.com/musoftware)
 
 
-[npm-image]: https://badge.fury.io/js/%40codekraft-studio%2Fvue-record.svg
-[npm-url]: https://npmjs.org/package/@codekraft-studio/vue-record
+[npm-image]: https://badge.fury.io/js/%40musoftware%2Fvue-record.svg
+[npm-url]: https://npmjs.org/package/@musoftware/vue-record
 
-[daviddm-image]: https://david-dm.org/codekraft-studio/vue-record.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/codekraft-studio/vue-record
+[daviddm-image]: https://david-dm.org/musoftware/vue-record.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/musoftware/vue-record
 
-[license-url]: https://github.com/codekraft-studio/vue-record/blob/master/LICENSE
+[license-url]: https://github.com/musoftware/vue-record/blob/master/LICENSE
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg

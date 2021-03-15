@@ -79,8 +79,8 @@
     <footer class="footer">
       <div class="content has-text-centered">
         <p>
-          The source code is licensed <a href="https://github.com/codekraft-studio/vue-record/blob/master/LICENSE">MIT</a>.
-          Made with ♥ by <a href="https://github.com/codekraft-studio">Codekraft Studio</a>.
+          The source code is licensed <a href="https://github.com/musoftware/vue-record/blob/master/LICENSE">MIT</a>.
+          Made with ♥ by <a href="https://github.com/musoftware">Codekraft Studio</a>.
         </p>
       </div>
     </footer>
