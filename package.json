@@ -9,7 +9,7 @@
     "build:demo": "vue-cli-service build --dest demo",
     "publish:demo": "git subtree push --prefix demo origin gh-pages",
     "lint": "vue-cli-service lint"
-  }, 
+  },
   "files": [
     "dist"
   ],
